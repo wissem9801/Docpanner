@@ -1,0 +1,148 @@
+.logo{
+    width: 290px;
+    height: 33px;
+    margin-left: -10%;
+    margin-top: 18px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.listnav{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-between;
+}
+.listnav a{
+    text-decoration: none;
+    color: #ababab;
+    display: block;
+
+}
+
+.listnav li{
+    padding: 10px;
+}
+.image{
+    width: 40px;
+    padding-bottom: 10px;
+    margin-left: 50%;
+    padding-top: 50px;
+}
+
+.titlePage{
+    margin-left: 25%;
+    color:#00ccb1;
+    font-family: Helvetica;
+    
+
+}
+.parag{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 60px;
+}
+.parag p{
+    line-height: 1.75;
+    font-weight: 400;
+    flex-basis: 100em;
+    color: #ababab;
+    padding: 20px;
+    margin: 20px 100px 0px 100px;
+}
+.boxes{
+    width: 70%;
+    margin: 20px auto;
+    height: 150%;
+    padding-bottom: 150px;
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    width: 101%;
+}
+.list a svg{
+    height: 20px;
+    max-width: 100%; 
+    fill: gray; 
+    margin-top: 30px;
+}
+.sou-box{
+    display: flex;
+    justify-content: space-around;
+    background: #e5faf8;
+    text-shadow: none;
+}
+
+
+.box1{
+    border: 1px solid black;
+    width: 192px;
+    height: 215px;
+    background-color: #e5faf8;
+    text-align: center;
+    margin: 5px;
+}
+.box2{
+    border: 1px solid black;
+    width: 192px;
+    height: 215px;
+    background-color: #e5faf8;
+    text-align: center;
+    margin: 5px;
+}
+.box3{
+    border: 1px solid black;
+    width: 192px;
+    height: 215px;
+    background-color: #e5faf8;
+    text-align: center;
+    margin: 5px;
+}
+.box4{
+    border: 1px solid black;
+    width: 192px;
+    height: 215px;
+    background-color: #e5faf8;
+    text-align: center;
+    margin: 5px;
+}
+.sou-box h3{
+    color: #00ccb1;
+}
+
+.sou-box p{
+    color: gray;
+}
+
+.box{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    
+}
+.boxes-image{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+}
+
+.footer-border{
+    text-align: center;
+    margin-top: 120px;
+    width: 70%;
+    margin: 0 auto;
+
+}
+.footer-parg{
+    margin-bottom: 10px;
+}
+.button-footer{
+    text-align: center;
+    padding-bottom: 100px;
+}
